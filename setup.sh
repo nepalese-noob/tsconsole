@@ -14,15 +14,11 @@ echo -e "${S2}updating done${S2}"
 sleep 1
 echo -e "${S4}checking upgrades${S4}"
 apt upgrade
-echo -e "${S3}subscribe my channal🥺🥺${S3}"
-xdg-open https://youtube.com/channel/UCeWhaK3kTy0i930PyRm2Ztw
 echo -e "${S5}upgrading done${S5}"
 
 sleep 1
 echo -e "${S6}checking wget${S6}"
 apt install wget
-echo -e "${S3}join whatsapp group🥺🥺${S3}"
-xdg-open https://chat.whatsapp.com/LdJsZi92xnH9gNK9PsuP7H
 echo -e "${S7}checking wget done${S7}"
 sleep 1
 echo -e "${R0}checking git${R0}"
