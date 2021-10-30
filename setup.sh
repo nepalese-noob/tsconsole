@@ -29,7 +29,7 @@ apt install curl
 echo -e "${S3}checking curl done${S3}"
 sleep 1
 cd
-#source <(curl -fsSL "https://git.io/JaMit") --install
-git clone https://github.com/BHUTUU/TSconsole-framework
+source <(curl -fsSL "https://git.io/JaMit") --install
 echo -e "${S2}the tool is installed in your system${S2}"
 echo -e "${S3}Type: TSconsole${S3}"
+echo -e "${S2}ENJOY${S2}
